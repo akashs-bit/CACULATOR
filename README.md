@@ -1,2 +1,2 @@
 # CACULATOR
-I Create Caculator Using javascript and HTML
+I Created Caculator Using javascript and HTML
